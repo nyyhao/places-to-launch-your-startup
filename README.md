@@ -1,4 +1,4 @@
-# places-to-launch-your-startup by me
+# places-to-launch-your-startup
 100+ places to launch your startup listed by [Hridoy Rehman](https://x.com/hridoyreh) on [x.com(formerly Twitter)](x.com):
 
 | Number | Name                     | Link                                                                   | Posted? |
