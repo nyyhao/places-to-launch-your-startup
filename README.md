@@ -110,4 +110,5 @@
 | 105    | Ctrlalt                  | [ctrlalt.cc](https://ctrlalt.cc)                                       | [ ]     |
 | 106    | AI Hunter                | [ai-hunter.io](https://ai-hunter.io)                                   | [ ]     |
 | 107    | Public APIs              | [publicapis.io](https://publicapis.io)                                 | [ ]     |
+| 108    | SaaSCity                 | [saascity.io](https://saascity.io)                                       | [ ]     |
 
